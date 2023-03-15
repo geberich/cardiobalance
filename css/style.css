@@ -1,0 +1,24 @@
+/* Inline styles from page  */
+
+.mfp-wrap {
+    z-index: 200043;
+  }
+  .mfp-bg {
+    z-index: 200042;
+  }
+  .show-message__item,
+  .show-message__item-first {
+    z-index: 10 !important;
+  }
+
+  footer {
+    background-color: #e7e7e7;
+    color: #000;
+  }
+  @media (max-width: 959px) {
+    .inputs_flex {
+      display: block !important;
+    }
+  }
+
+	
