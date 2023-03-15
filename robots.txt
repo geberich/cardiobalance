@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geberich.github.io/cardiobalance/sitemap.xml
